@@ -318,6 +318,9 @@ static KeyNames key_names[] =
 	{ "printscreen",    K_PRINTSCREEN },
 	{ "insert",         K_INSERT },
 	{ "menu",           K_MENU },
+	{ "capslock",				K_CAPSLOCK },
+	{ "numlock",				K_NUMPAD_LOCK },
+	{ "scroll_lock",		K_SCROLL_LOCK },
 
 	{ "audio_mute",     K_AUDIO_VOLUME_MUTE },
 	{ "audio_vol_down", K_AUDIO_VOLUME_DOWN },
